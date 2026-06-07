@@ -30,6 +30,7 @@ Survey Collection → Data Cleaning → Scoring Framework Development → Perfor
 
 **Skills:** 
 Data Analytics, Survey Analytics, KPI Development, Performance Benchmarking, Data Storytelling, Report Writing, Data Cleaning & Transformation
+
 **Impact**
 Developed a scalable environmental assessment framework that enabled benchmarking of 45 RWAs, identification of key pollution contributors and generation of actionable insights to support community-level environmental decision-making under a MoEFCC-supported environmental awareness initiative.
 
