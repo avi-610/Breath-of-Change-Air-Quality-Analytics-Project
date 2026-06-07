@@ -1,5 +1,5 @@
 # Breath of Change: Air Quality Assessment & Community Analytics
-Data-driven environmental analytics project assessing air quality awareness, pollution mitigation efforts and performance benchmarking across 45 RWAs and 12 Delhi pollution hotspots.
+MoEFCC-supported air quality assessment analyzing pollution mitigation, community awareness & environmental performance across 45 RWAs and 12 Delhi pollution hotspots through survey analytics & benchmarking.
 
 **Overview**
 Government-supported environmental analytics project aligned with air quality awareness and community engagement initiatives under the Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India.
